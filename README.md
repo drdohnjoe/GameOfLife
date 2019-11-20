@@ -1,0 +1,2 @@
+# GameOfLife
+"independent project"
